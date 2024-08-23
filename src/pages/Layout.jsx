@@ -5,17 +5,17 @@ const Layout = () => {
     <>
     <header>
       <nav>
-        <Link to ="/">Home </Link> || 
-        <Link to ="/gifts1"> Gifts Under $20 </Link> || 
-        <Link to ="/gifts2"> Teen Gift Ideas </Link> || 
-        <Link to ="/gifts3"> Kids Gift Ideas </Link> || 
-        <Link to ="/gifts4"> Baby Gift Ideas </Link> || 
-        <Link to ="/gifts5"> Best Deals</Link>
+        <Link to ="/" className="nav-link">Home </Link> || 
+        <Link to ="/gifts1" className="nav-link"> Gifts Under $20 </Link> || 
+        <Link to ="/gifts2" className="nav-link"> Teen Gift Ideas </Link> || 
+        <Link to ="/gifts3" className="nav-link"> Kids Gift Ideas </Link> || 
+        <Link to ="/gifts4" className="nav-link"> Baby Gift Ideas </Link> || 
+        <Link to ="/gifts5" className="nav-link"> Gifts for Pets</Link>
       </nav>
-      <Outlet />
       <h1>Find a Gift for Everyone</h1>
       <p>Best ideas for everyone on your list!</p>
-    </header>
+      </header>
+      <Outlet />
     </>
   );
 }

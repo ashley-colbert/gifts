@@ -1,11 +1,11 @@
 import React from "react";
-import "./Gifts4.css";
+import "./Gifts5.css";
 
-const Gifts4 = () => {
+const Gifts5 = () => {
   return (
     <>
-      <div className="gifts4">
-        <h3>Gifts for Babies. Great gifts for babies this year!</h3>
+      <div className="gifts5">
+        <h3>Gifts for Pets. Great gifts for pets this year!</h3>
         <div>
           <img src="https://via.placeholder.com/150" alt="gift1" />
           <p>Gift 1</p>
@@ -17,4 +17,4 @@ const Gifts4 = () => {
   );
 };
 
-export default Gifts4;
+export default Gifts5;
