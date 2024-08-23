@@ -16,3 +16,15 @@ header{
   text-align: center;
   width: 100%;
 }
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.nav-link:hover {
+  background-color: rgb(43, 42, 42);
+  border-radius: 45%;
+}
+
