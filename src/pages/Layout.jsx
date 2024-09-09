@@ -6,11 +6,11 @@ const Layout = () => {
     <header>
       <nav>
         <Link to ="/" className="nav-link">Home </Link> || 
-        <Link to ="/gifts1" className="nav-link"> Gifts Under $20 </Link> || 
-        <Link to ="/gifts2" className="nav-link"> Teen Gift Ideas </Link> || 
-        <Link to ="/gifts3" className="nav-link"> Kids Gift Ideas </Link> || 
-        <Link to ="/gifts4" className="nav-link"> Baby Gift Ideas </Link> || 
-        <Link to ="/gifts5" className="nav-link"> Gifts for Pets</Link>
+        <Link to ="/gifts1" className="nav-link"> Fall Decor </Link> || 
+        <Link to ="/gifts2" className="nav-link"> Teen Costumes </Link> || 
+        <Link to ="/gifts3" className="nav-link"> Kids Costumes </Link> || 
+        <Link to ="/gifts4" className="nav-link"> Baby Costumes </Link> || 
+        <Link to ="/gifts5" className="nav-link"> Pet Costumes</Link>
       </nav>
       <h1>Great Deals for Everyone</h1>
       <p>Best ideas for everyone on your list!</p>
