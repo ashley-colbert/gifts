@@ -12,7 +12,7 @@ const Layout = () => {
         <Link to ="/gifts4" className="nav-link"> Baby Gift Ideas </Link> || 
         <Link to ="/gifts5" className="nav-link"> Gifts for Pets</Link>
       </nav>
-      <h1>Find a Gift for Everyone</h1>
+      <h1>Great Deals for Everyone</h1>
       <p>Best ideas for everyone on your list!</p>
       </header>
       <Outlet />
