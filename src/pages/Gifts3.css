@@ -9,4 +9,25 @@
   margin:auto;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+
+a:hover {
+  font-size: calc(10px + 2.2vmin);
+  background-color: rgb(43, 42, 42);
+  border-radius: 45%;
+}
+
+.item {
+  display: flex;
+  align-items: center; 
+  margin:5%;
+}
+
+.item img {
+  margin-right: 2.5%; 
+}
 
