@@ -4,7 +4,29 @@
   justify-items: center;
   justify-content: center;
   align-items: center;
-  background-color: rgb(52, 28, 28);
+  background-color: rgb(52, 28, 28, 0.8);
   width: 70%;
   margin:auto;
+  padding: 2.5%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+
+a:hover {
+  font-size: calc(10px + 2.2vmin);
+  background-color: rgb(43, 42, 42);
+  border-radius: 45%;
+}
+
+.item {
+  display: flex;
+  align-items: center; 
+}
+
+.item img {
+  margin-right: 2.5%; 
 }

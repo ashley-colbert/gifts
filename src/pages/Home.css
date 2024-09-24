@@ -21,11 +21,11 @@ a:hover {
   border-radius: 45%;
 }
 
-.item {
+/* .item {
   display: flex;
   align-items: center; 
   margin:5%;
-}
+} */
 
 .item img {
   margin-right: 2.5%; 
