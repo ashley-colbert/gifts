@@ -7,10 +7,10 @@ const Layout = () => {
       <nav>
         <Link to ="/" className="nav-link">Home </Link> || 
         <Link to ="/gifts1" className="nav-link"> Halloween </Link> || 
-        <Link to ="/gifts2" className="nav-link"> Teen Costumes </Link> || 
-        <Link to ="/gifts3" className="nav-link"> Kids Costumes </Link> || 
-        <Link to ="/gifts4" className="nav-link"> Baby Costumes </Link> || 
-        <Link to ="/gifts5" className="nav-link"> Pet Costumes</Link>
+        <Link to ="/gifts2" className="nav-link"> Kid's Gift</Link> || 
+        <Link to ="/gifts3" className="nav-link"> Teen's Gift</Link> || 
+        <Link to ="/gifts4" className="nav-link"> Pet's Gift</Link> 
+        {/* <Link to ="/gifts5" className="nav-link"> Advent Calendars</Link> */}
       </nav>
       <h1>Great Deals for Everyone</h1>
       <p>Best ideas for everyone on your list!</p>
