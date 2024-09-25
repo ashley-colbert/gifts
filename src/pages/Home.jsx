@@ -12,7 +12,7 @@ const Home = () => {
         <a rel="noopener noreferrer" href="https://amzn.to/3ZjIlZs" target="blank">
         <div className="item">
         <img src="/images/freezy.jpg" alt="Cookeez Makery Freezy Cakez - Green toy fridge with Cookeez plushie." width="150px"/>
-        <p>Cookeez Makery Freezy Cakez. Mix & Decorate Your Plush Best Friend!<br></br>*HOT toy*</p>
+        <p>*HOT toy*<br></br>Cookeez Makery Freezy Cakez. Mix & Decorate Your Plush Best Friend!</p>
         </div>
         </a>
 
