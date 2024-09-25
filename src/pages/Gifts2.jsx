@@ -5,42 +5,51 @@ const Gifts2 = () => {
   return (
     <>
       <div className="gifts2">
-        <h3>Popular Teen Costumes</h3>
+        <h3>Popular Kid's Gift Ideas</h3>
         <div>
       <a rel="noopener noreferrer" href="https://amzn.to/4dVoCDI" target="blank">
         <div className="item">
-        <img src="/images/fallwreath.jpg" alt="Door wreath with fall colours and feathers." width="150px"/>
-        <p>Fall Wreath 24 inch Autumn Door Wreath <br></br> Only $34.99</p>
+        <img src="/images/artkit.jpg" alt="Art kit in case with markers, water colours, and other supples." width="150px"/>
+        <p>*Great Deal* 150PC Art kit in in case<br></br> Multiple colours available</p>
         </div>
         </a>
         
-        <a rel="noopener noreferrer" href="https://amzn.to/4efIHEJ" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3zwNkLT" target="blank">
         <div className="item">
-        <img src="/images/welcome.jpg" alt="Fall themed hanging welcome sign with pumpkins." width="150px"/>
-        <p>Fall Themed Welcome Sign - variety of colours available<br></br> Starting at only $32.99</p>
+        <img src="/images/egg.jpg" alt="Yellow and white Gudetama egg plushie." width="150px"/>
+        <p>GUND Gudetama “Lazy Sitting Pose” Stuffed Animal Plush, 6"</p>
         </div>
         </a>
 
         <a rel="noopener noreferrer" href="https://amzn.to/3ZjIlZs" target="blank">
         <div className="item">
-        <img src="/images/fallpillow.jpg" alt="Hello Pumpkin throw pillow with black and orange writing." width="150px"/>
-        <p>"Hello Pumpkin" RABUSOFA Throw Pillow Covers - assortment of sizes available<br></br> Starting at only $11.99</p>
+        <img src="/images/freezy.jpg" alt="Cookeez Makery Freezy Cakez - Green toy fridge with Cookeez plushie." width="150px"/>
+        <p>*HOT toy* <br></br>Cookeez Makery Freezy Cakez. Mix & Decorate Your Plush Best Friend!</p>
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3XmWjHt" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3zFVWzJ" target="blank">
         <div className="item">
-        <img src="/images/candle.jpg" alt="Pumpkin Chai labled candle in a glass holder." width="150px"/>
-        <p>Chloefu LAN Pumpkin Chai Scented Candle<br></br> Only $25.99</p>
+        <img src="/images/blueygame.jpg" alt="Monopoly game box with a picture of Bluey and her family on the cover." width="150px"/>
+        <p>Monopoly JUNIOR BLUEY - ENGLISH Board Game</p>
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3z24ZLj" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3XAZ1ZW" target="blank">
         <div className="item">
-        <img src="/images/votiveholder.jpg" alt="3 ceramic jack-o-lantern tea light holders in pink, light yellow, and white." width="150px"/>
-        <p>Sunlit Ceramic Pumpkin Jack-O-Lantern Candle Holder Set - 3 tea lights included<br></br> Set of 3 for only $36.99</p>
+        <img src="/images/blockset.jpg" alt="^ characters created by building blocks." width="150px"/>
+        <p>6-piece mini building block set. Note: Found on a US site.</p>
         </div>
         </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3ZEJUS2" target="blank">
+        <div className="item">
+        <img src="/images/lights.jpg" alt="Spool of LED a light strip." width="150px"/>
+        <p>LED light strip. Music sync colour changing. Awesome price and coupon available. <br></br>
+        Note: from a US site</p>
+        </div>
+        </a>
+
         </div>
       </div>
     </>
