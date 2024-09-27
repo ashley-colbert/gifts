@@ -38,7 +38,7 @@ const Gifts3 = () => {
         <a rel="noopener noreferrer" href="https://amzn.to/3ZEJUS2" target="blank">
         <div className="item">
         <img src="/images/lights.jpg" alt="Spool of LED a light strip." width="150px"/>
-        <p>LED light strip. Music sync colour changing. Awesome price and coupon available. <br></br>
+        <p>LED light strip. Music sync colour changing <br></br>
         Note: from a US site</p>
         </div>
         </a>
