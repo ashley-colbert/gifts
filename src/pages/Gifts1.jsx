@@ -97,10 +97,6 @@ const Gifts1 = () => {
               <img src="/images/jellyfish.jpg" alt="A ." width="150px" />
               <p>DIY Lightup Jellyfish Costume Kit. Note: From a US site.</p>
             </div>
-            <div className="item">
-              <img src="/images/alien.jpg" alt="Man in an inflatable alien costume." width="150px" />
-              <p>Rhythmarts Alien Inflatable costume</p>
-            </div>
           </a>
 
           <a rel="noopener noreferrer" href="https://amzn.to/3zsfqI7" target="blank">
