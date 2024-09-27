@@ -44,7 +44,7 @@ const Gifts4 = () => {
 
         <a rel="noopener noreferrer" href="https://amzn.to/4exdNYo" target="blank">
         <div className="item">
-        <img src="/images/cat.jpg" alt="Advent calendar with a holiday scene including 2 cats wearing Santa hats." width="150px"/>
+        <img src="/images/catcal.jpg" alt="Advent calendar with a holiday scene including 2 cats wearing Santa hats." width="150px"/>
         <p>Cat Advent Calendar</p>
         </div>
         </a>
