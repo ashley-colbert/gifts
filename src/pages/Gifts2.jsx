@@ -7,7 +7,7 @@ const Gifts2 = () => {
       <div className="gifts2">
         <h3>Popular Kid's Gift Ideas</h3>
         <div>
-      <a rel="noopener noreferrer" href="https://amzn.to/4dVoCDI" target="blank">
+      <a rel="noopener noreferrer" href="https://amzn.to/3N5Q9Xe" target="blank">
         <div className="item">
         <img src="/images/artkit.jpg" alt="Art kit in case with markers, water colours, and other supples." width="150px"/>
         <p>*Great Deal* 150PC Art kit in in case<br></br> Multiple colours available</p>
@@ -45,7 +45,7 @@ const Gifts2 = () => {
         <a rel="noopener noreferrer" href="https://amzn.to/3ZEJUS2" target="blank">
         <div className="item">
         <img src="/images/lights.jpg" alt="Spool of LED a light strip." width="150px"/>
-        <p>LED light strip. Music sync colour changing. Awesome price and coupon available. <br></br>
+        <p>LED light strip. Music sync colour changing. Awesome price <br></br>
         Note: from a US site</p>
         </div>
         </a>
