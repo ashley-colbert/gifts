@@ -21,7 +21,7 @@ const Gifts2 = () => {
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3ZjIlZs" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3YokYvJ" target="blank">
         <div className="item">
         <img src="/images/freezy.jpg" alt="Cookeez Makery Freezy Cakez - Green toy fridge with Cookeez plushie." width="150px"/>
         <p>*HOT toy* <br></br>Cookeez Makery Freezy Cakez. Mix & Decorate Your Plush Best Friend!</p>
@@ -35,12 +35,6 @@ const Gifts2 = () => {
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3XAZ1ZW" target="blank">
-        <div className="item">
-        <img src="/images/blockset.jpg" alt="^ characters created by building blocks." width="150px"/>
-        <p>6-piece mini building block set. Note: Found on a US site.</p>
-        </div>
-        </a>
 
         <a rel="noopener noreferrer" href="https://amzn.to/3ZEJUS2" target="blank">
         <div className="item">
