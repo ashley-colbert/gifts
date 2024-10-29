@@ -28,7 +28,7 @@ const Gifts3 = () => {
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3XmWjHt" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/4e19kg8" target="blank">
         <div className="item">
         <img src="/images/clue.jpg" alt="Clue board game in a white and blue square box." width="150px"/>
         <p>Clue Board Game Signature Collection, Premium Packaging and Components</p>
@@ -42,6 +42,23 @@ const Gifts3 = () => {
         Note: from a US site</p>
         </div>
         </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3Uoj5hy" target="blank">
+            <div className="item">
+              <img src="/images/karaoke.jpg" alt="Karaoke speaker with 2 microphones." width="150px" />
+              <p>Masingo Karaoke Machine with 2 Bluetooth Microphones.</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4e8V3Ot" target="blank">
+          <div className="item">
+          <img src="/images/hairdryer.jpg" alt="White hair dryer with accessories." width="150px" />
+              <p>Slopehill Professional Ionic Hair Dryer </p>
+            </div>
+          </a>
+
+
+
         </div>
       </div>
     </>

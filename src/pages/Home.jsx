@@ -49,16 +49,30 @@ const Home = () => {
         <a rel="noopener noreferrer" href="https://amzn.to/4eDqzVy" target="blank">
         <div className="item">
         <img src="/images/pop.jpg" alt="Lavender Echo Pop round speaker." width="150px"/>
-        <p>*Awesome Deal* Amazon Echo Pop smart apeaker with Alexa<br></br>Multiple colours available</p>
+        <p>Amazon Echo Pop smart apeaker with Alexa<br></br>Multiple colours available</p>
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3XmWjHt" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/4e19kg8" target="blank">
         <div className="item">
         <img src="/images/clue.jpg" alt="Clue board game in a white and blue square box." width="150px"/>
         <p>Clue Board Game Signature Collection, Premium Packaging and Components</p>
         </div>
         </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3Aun19s" target="blank">
+            <div className="item">
+              <img src="/images/sled.jpg" alt="Two kids riding on a blue, round, inflatible sled." width="150px" />
+              <p>Hyperzoo Snow Tube, 55" Inflatable Sleds for Kids and Adults</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3UqJaMR" target="blank">
+          <div className="item">
+          <img src="/images/elliptical.jpg" alt="A woman using a silver elliptical." width="150px" />
+              <p>Sunny Health & Fitness Air Walk Cross Trainer Elliptical Machine Glider</p>
+            </div>
+          </a>
         
         </div>
     </div>

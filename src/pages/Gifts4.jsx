@@ -21,7 +21,7 @@ const Gifts4 = () => {
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3ZjIlZs" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3YH0gbT" target="blank">
         <div className="item">
         <img src="/images/dogtoys.jpg" alt="1 brown fox and 1 black and grey raccoon dog toy." width="150px"/>
         <p>JOYELF no stuffing squeaky dog toy, Fox and Raccoon<br></br> *Great Price*</p>
@@ -42,12 +42,6 @@ const Gifts4 = () => {
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/4exdNYo" target="blank">
-        <div className="item">
-        <img src="/images/catcal.jpg" alt="Advent calendar with a holiday scene including 2 cats wearing Santa hats." width="150px"/>
-        <p>Cat Advent Calendar</p>
-        </div>
-        </a>
 
         </div>
       </div>
