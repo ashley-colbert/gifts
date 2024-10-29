@@ -5,85 +5,88 @@ const Gifts1 = () => {
   return (
     <>
       <div className="gifts1">
-        <h3>Awesome Deals on Beautiful Fall and Halloween Decor, Treats, and Costumes!</h3>
+        <h3>Best Deals on Unique Gift Ideas</h3>
         <p>New deals updated daily</p>
         <div>
-          <h3>Decor</h3>
-          <a rel="noopener noreferrer" href="https://amzn.to/4dVoCDI" target="blank">
+          <h3>Deals!</h3>
+          <a rel="noopener noreferrer" href="https://amzn.to/3Uoj5hy" target="blank">
             <div className="item">
-              <img src="/images/fallwreath.jpg" alt="Door wreath with fall colours and feathers." width="150px" />
-              <p>Fall Wreath 24 inch Autumn Door Wreath</p>
+              <img src="/images/karaoke.jpg" alt="Karaoke speaker with 2 microphones." width="150px" />
+              <p>Masingo Karaoke Machine with 2 Bluetooth Microphones.</p>
             </div>
           </a>
 
-          <a rel="noopener noreferrer" href="https://amzn.to/4efIHEJ" target="blank">
+          <a rel="noopener noreferrer" href="https://amzn.to/3A8YGGm" target="blank">
           <div className="item">
-          <img src="/images/welcome.jpg" alt="Fall themed hanging welcome sign with pumpkins." width="150px" />
-              <p>Fall Themed Welcome Sign - variety of colours available</p>
+          <img src="/images/record.jpg" alt="Table top record player with plastic top and wood finish on bottom." width="150px" />
+              <p>Amazon Basics Turntable Record Player with Built-in Speakers and Bluetooth</p>
             </div>
           </a>
 
-          <a rel="noopener noreferrer" href="https://amzn.to/3ZjIlZs" target="blank">
+          <a rel="noopener noreferrer" href="https://amzn.to/4e8V3Ot" target="blank">
           <div className="item">
-          <img src="/images/fallpillow.jpg" alt="Hello Pumpkin throw pillow with black and orange writing." width="150px" />
-              <p>"Hello Pumpkin" RABUSOFA Throw Pillow Covers - assortment of sizes available</p>
+          <img src="/images/hairdryer.jpg" alt="White hair dryer with accessories." width="150px" />
+              <p>Slopehill Professional Ionic Hair Dryer </p>
             </div>
           </a>
 
-          <a rel="noopener noreferrer" href="https://amzn.to/3XmWjHt" target="blank">
+          <a rel="noopener noreferrer" href="https://amzn.to/3CcWL3U" target="blank">
           <div className="item">
-          <img src="/images/candle.jpg" alt="Pumpkin Chai labled candle in a glass holder." width="150px" />
-              <p>Chloefu LAN Pumpkin Chai Scented Candle<br></br> Only $25.99</p>
+          <img src="/images/birdfeeder.jpg" alt="a red bird sitting on a bird feeder with camera." width="150px" />
+              <p>Dzees Smart Bird Feeder with Camera, Bird Feeder Camera Wireless Outdoor</p>
             </div>
           </a>
 
-          <a rel="noopener noreferrer" href="https://amzn.to/3z24ZLj" target="blank">
+          <a rel="noopener noreferrer" href="https://amzn.to/3UqJaMR" target="blank">
           <div className="item">
-          <img src="/images/votiveholder.jpg" alt="3 ceramic jack-o-lantern tea light holders in pink, light yellow, and white." width="150px" />
-              <p>Sunlit Ceramic Pumpkin Jack-O-Lantern Candle Holder Set - 3 tea lights included</p>
-            </div>
-          </a>
-        </div>
-
-        <div>
-          <h3>Costumes for Kids</h3>
-          <a rel="noopener noreferrer" href="https://amzn.to/4gwOtUa" target="blank">
-            <div className="item">
-              <img src="/images/purpleWitch.jpg" alt="A child wearing a black and purple witch costume holding a black witch's broom." width="150px" />
-              <p>Spooktacular Creations Fairytale Witch Deluxe Costume<br></br>Multiple colours available </p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/3XNOcoQ" target="blank">
-            <div className="item">
-              <img src="/images/octopus.jpg" alt="A child wearing an in inflatible octopus costume." width="150px" />
-              <p>Awesome Inflatible Octopus Costume <br></br>Also available in adult sizes</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/4guvrxJ" target="blank">
-            <div className="item">
-              <img src="/images/doctor.jpg" alt="A child wearing green scrubs and a white doctor'd coat Halloween costume." width="150px" />
-              <p>GIFTINBOX Doctor Halloween Costume <br></br>Multiple colours available</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/47uwUAg" target="blank">
-            <div className="item">
-              <img src="/images/werewolf.jpg" alt="A child dressed as a grey werewolf, wearing a blue plaid shirt." width="150px" />
-              <p>Spooktacular Creation Scary Werewolf Costume <br></br>Multiple colors available</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/3XQiTIT" target="blank">
-            <div className="item">
-              <img src="/images/police.jpg" alt="Child's police uniform Halloween costume with several accessories." width="150px" />
-              <p>Joyin Toy Spooktacular Deluxe Police Officer Halloween Costume</p>
+          <img src="/images/elliptical.jpg" alt="A woman using a silver elliptical." width="150px" />
+              <p>Sunny Health & Fitness Air Walk Cross Trainer Elliptical Machine Glider</p>
             </div>
           </a>
 
         </div>
+
         <div>
+          <h3>Best Deals on Toys</h3>
+          <a rel="noopener noreferrer" href="https://amzn.to/4fi3TLn" target="blank">
+            <div className="item">
+              <img src="/images/kenetic.jpg" alt="A box of kenetic sand in white, pink, and brown and accessories." width="150px" />
+              <p>Kinetic Sand Scents, Ice Cream Treats Playset</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3NJMvD2" target="blank">
+            <div className="item">
+              <img src="/images/playdoh.jpg" alt="A variety of play doh containers in different colours and accessories." width="150px" />
+              <p>Hasbro Play-Doh Kitchen Creations Cook 'n Colors Refill Variety Pack</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4hhHoay" target="blank">
+            <div className="item">
+              <img src="/images/magneticTiles.jpg" alt="A colourful castle built from magnetic tiles in different shapes." width="150px" />
+              <p>Magnetic Tiles. Building Learning Toy in Multiple Shapes and Sizes.</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3YIw0xa" target="blank">
+            <div className="item">
+              <img src="/images/slime.jpg" alt="A plastic container of grean slime with a small owl toy on top." width="150px" />
+              <p>Original Squishmallows Winston The Owl Premium Scented Slime, Blue Raspberry Scented</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3Aun19s" target="blank">
+            <div className="item">
+              <img src="/images/sled.jpg" alt="Two kids riding on a blue, round, inflatible sled." width="150px" />
+              <p>Hyperzoo Snow Tube, 55" Inflatable Sleds for Kids and Adults</p>
+            </div>
+          </a>
+
+        </div>
+
+        
+        {/* <div>
           <h3>Great Costumes for Teens or Adults</h3>
           <a rel="noopener noreferrer" href="https://amzn.to/47viUGual" target="blank">
             <div className="item">
@@ -126,9 +129,17 @@ const Gifts1 = () => {
               <p>Spooktacular Creations Taco Costume Deluxe Set</p>
             </div>
           </a>
-        </div>
 
-        <div>
+          <a rel="noopener noreferrer" href="https://amzn.to/3N5Q9Xe" target="blank">
+        <div className="item">
+        <img src="/images/artkit.jpg" alt="Art kit in case with markers, water colours, and other supples." width="150px"/>
+        <p>*Great Deal* 150PC Art kit in in case<br></br> Multiple colours available</p>
+        </div>
+        </a>
+
+        </div> */}
+
+        {/* <div>
           <h3>Costumes for Kids</h3>
           <a rel="noopener noreferrer" href="https://amzn.to/4gwOtUa" target="blank">
             <div className="item">
@@ -205,7 +216,7 @@ const Gifts1 = () => {
             </div>
           </a>
 
-        </div>
+        </div> */}
       </div>
     </>
   );

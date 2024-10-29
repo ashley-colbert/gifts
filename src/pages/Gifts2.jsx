@@ -44,6 +44,41 @@ const Gifts2 = () => {
         </div>
         </a>
 
+        <a rel="noopener noreferrer" href="https://amzn.to/4fi3TLn" target="blank">
+            <div className="item">
+              <img src="/images/kenetic.jpg" alt="A box of kenetic sand in white, pink, and brown and accessories." width="150px" />
+              <p>Kinetic Sand Scents, Ice Cream Treats Playset</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3NJMvD2" target="blank">
+            <div className="item">
+              <img src="/images/playdoh.jpg" alt="A variety of play doh containers in different colours and accessories." width="150px" />
+              <p>Hasbro Play-Doh Kitchen Creations Cook 'n Colors Refill Variety Pack</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4hhHoay" target="blank">
+            <div className="item">
+              <img src="/images/magneticTiles.jpg" alt="A colourful castle built from magnetic tiles in different shapes." width="150px" />
+              <p>Magnetic Tiles. Building Learning Toy in Multiple Shapes and Sizes.</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3YIw0xa" target="blank">
+            <div className="item">
+              <img src="/images/slime.jpg" alt="A plastic container of grean slime with a small owl toy on top." width="150px" />
+              <p>Original Squishmallows Winston The Owl Premium Scented Slime, Blue Raspberry Scented</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3Aun19s" target="blank">
+            <div className="item">
+              <img src="/images/sled.jpg" alt="Two kids riding on a blue, round, inflatible sled." width="150px" />
+              <p>Hyperzoo Snow Tube, 55" Inflatable Sleds for Kids and Adults</p>
+            </div>
+          </a>
+
         </div>
       </div>
     </>
