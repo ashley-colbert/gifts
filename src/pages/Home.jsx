@@ -8,6 +8,69 @@ const Home = () => {
       <h3>This Year's Best Gift Ideas</h3>
       <p>Deals updated daily</p>
       <div>
+
+      <a rel="noopener noreferrer" href="https://amzn.to/3YQ5oKN" target="blank">
+            <div className="item">
+              <img src="/images/masterbee.jpg" alt="A blue camera with a photo being printed at the bottom." width="150px" />
+              <p>**masterbee Kid Camera Instant Print Photo**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4ecBSDj" target="blank">
+            <div className="item">
+              <img src="/images/calico.jpg" alt="A cat shaped stuffie with calico colours." width="150px" />
+              <p>**Squishmallows 14-Inch Brown and Black Calico Cat Plush**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3UEaNlP" target="blank">
+            <div className="item">
+              <img src="/images/raptor.jpg" alt="A grey and brown dinosaur toy." width="150px" />
+              <p>**Wild Republic Artist Collection, Dinosaur Velociraptor**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3V1iJhd" target="blank">
+            <div className="item">
+              <img src="/images/echokids.jpg" alt="A round Echo Dot with a dragon printed on it." width="150px" />
+              <p>**Amazon Echo Dot (5th Gen, 2022 release) Kids**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/40szpl8" target="blank">
+            <div className="item">
+              <img src="/images/bitzee.jpg" alt="A blue opened box with a digital unicorn inside." width="150px" />
+              <p>**Bitzee, Magicals Interactive Toy with 20 Characters Inside**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3Ai7Q3r" target="blank">
+            <div className="item">
+              <img src="/images/jumanji.jpg" alt="A box for the Jumanji board game with two people running from animals in the jungle." width="150px" />
+              <p>**Spin Master Games, Jumanji Stampede Cooperative Board Game**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4efFfcO" target="blank">
+            <div className="item">
+              <img src="/images/lasso.jpg" alt="A a purple box with a white lasso kids toy and 4 colourful strings." width="150px" />
+              <p>**Loop Lasso® NANO - The Original Glow-in-The-Dark String Shooter Toy**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3NRRNfN" target="blank">
+            <div className="item">
+              <img src="/images/dragonlego.jpg" alt="A purple and black lego set with a dragon." width="150px" />
+              <p>**LEGO Minecraft The Ender Dragon and End Ship Building Set**</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4fRaigr" target="blank">
+            <div className="item">
+              <img src="/images/draggle.jpg" alt="Two colourful dragon toys in front of a Hatchimals Alive purple box." width="150px" />
+              <p>**Hatchimals Alive, Mystery Hatch Draggle, Surprise Interactive Toy & Egg with Mist, Lights & Sounds**</p>
+            </div>
+          </a>
         
         <a rel="noopener noreferrer" href="https://amzn.to/3YokYvJ" target="blank">
         <div className="item">

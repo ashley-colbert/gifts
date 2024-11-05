@@ -48,6 +48,15 @@ const Gifts1 = () => {
 
         <div>
           <h3>Best Deals on Toys</h3>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3YQ5oKN" target="blank">
+            <div className="item">
+              <img src="/images/masterbee.jpg" alt="A blue camera with a photo being printed at the bottom." width="150px" />
+              <p>**masterbee Kid Camera Instant Print Photo**</p>
+            </div>
+          </a>
+
+          
           <a rel="noopener noreferrer" href="https://amzn.to/4fi3TLn" target="blank">
             <div className="item">
               <img src="/images/kenetic.jpg" alt="A box of kenetic sand in white, pink, and brown and accessories." width="150px" />
