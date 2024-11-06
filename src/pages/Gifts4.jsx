@@ -7,6 +7,14 @@ const Gifts4 = () => {
       <div className="gifts2">
         <h3>The best gifts for pets this season</h3>
         <div>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3YSUILg" target="blank">
+        <div className="item">
+        <img src="/images/catpad.jpg" alt="A tabby cat sitting on a grey mat." width="150px"/>
+        <p>Self Heating Cat Pad Self Warming Cat Bed 22" x 17"</p>
+        </div>
+        </a>
+
         <a rel="noopener noreferrer" href="https://www.amazon.ca/Calming-Dog-Cat-Bed-Donut/dp/B08B4T5ZWJ?crid=2W8O8GE8XV28R&dib=eyJ2IjoiMSJ9.vybU24bOYc3Div044rRdj5jrSBjWf7x5XGpx4xck216Ukn6GAXaGnP8fgtdZDFA-ynH_cfonYTRegv9-t0e77HdNJ8wqncRO_5iPtY-vPFVW0IKWvIh6wjBqzncjJ1XC4KZvwsXVgTSBYo8hPab8NE2snnirhWNRh0jw0VmccDUKCV9zzje1ZAECsBd3vJk8lZZU1UXxQ4-3e2HLyO29G_5xqR704dVXKq4ckcF4yiCAnzTE09UntHQLQT_NtwWjyPu_B0fCS5YMmDbQwCGeh9_QzRBQCoSsKoN5uWQScQ4.kNUrAzzeBRttMC3Tic6iVOiHkqfVYSherKWnq92tJy0&dib_tag=se&keywords=pets%2Bbed&qid=1727284599&sprefix=pets%2Bbe%2Caps%2C168&sr=8-6&th=1&linkCode=sl1&tag=giftideasca0b-20&linkId=3bc73bc75717c39d9fe6e46af1e4f4f7&language=en_CA&ref_=as_li_ss_tl" target="blank">
         <div className="item">
         <img src="/images/catbed.jpg" alt="Round, grey, fluffy pet bed with a long haired white cat pying on top." width="150px"/>
@@ -41,6 +49,7 @@ const Gifts4 = () => {
         <p>The Dogvent Calendar</p>
         </div>
         </a>
+
 
 
         </div>
