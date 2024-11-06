@@ -8,9 +8,9 @@ const Gifts4 = () => {
         <h3>The best gifts for pets this season</h3>
         <div>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3YSUILg" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3NW7J0p" target="blank">
         <div className="item">
-        <img src="/images/catpad.jpg" alt="A tabby cat sitting on a grey mat." width="150px"/>
+        <img src="/images/catpad.jpg" alt="A cat sitting on a grey mat." width="150px"/>
         <p>Self Heating Cat Pad Self Warming Cat Bed 22" x 17"</p>
         </div>
         </a>
