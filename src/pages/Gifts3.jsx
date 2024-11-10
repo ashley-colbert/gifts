@@ -13,6 +13,13 @@ const Gifts3 = () => {
         <p>Fujifilm Instax Mini Link 3 Smartphone Printer <br></br>Multiple colours available</p>
         </div>
         </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/4embM0H" target="blank">
+        <div className="item">
+        <img src="/images/weezer.jpg" alt="A grey t-shirt with the Weezer band logo." width="150px"/>
+        <p>Weezer Rock Band Checkered Logo T-Shirt</p>
+        </div>
+        </a>
         
         <a rel="noopener noreferrer" href="https://amzn.to/3ZChvfa" target="blank">
         <div className="item">
