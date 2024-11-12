@@ -1,15 +1,41 @@
 import React from "react";
+import { SuperSEO } from "react-super-seo";
 import "./Home.css";
 
 const Home = () => {
   return (
     <>
-    <div className="home-container">
-      <h3>This Year's Best Gift Ideas</h3>
-      <p>Deals updated daily</p>
-      <div>
+      
+      <SuperSEO
+        title="Best Gift Ideas for 2024 - Deals Updated Daily"
+        description="Discover this year's best gift ideas for everyone. Our list is updated daily with the latest deals."
+        lang="en"
+        openGraph={{
+          ogImage: {
+            ogImage: "/public/logo512.png", 
+            ogImageAlt: "A collection of popular gift items for 2024",
+            ogImageWidth: 1200,
+            ogImageHeight: 630,
+            ogImageType: "image/jpeg",
+          },
+          ogTitle: "Best Gift Ideas for 2024",
+          ogDescription: "Explore top gift ideas updated daily with the best deals.",
+        }}
+        twitter={{
+          twitterSummaryCard: {
+            summaryCardImage: "/public/logo512.png", // Replace with actual image URL
+            summaryCardImageAlt: "A collection of popular gift items for 2024",
+            summaryCardSiteUsername: "@yourTwitterHandle", // Replace with your Twitter handle
+          },
+        }}
+      />
 
-      <a rel="noopener noreferrer" href="https://amzn.to/3YQ5oKN" target="blank">
+      <div className="home-container">
+        <h3>This Year's Best Gift Ideas</h3>
+        <p>Deals updated daily</p>
+        <div>
+          {/* Your existing gift items */}
+          <a rel="noopener noreferrer" href="https://amzn.to/3YQ5oKN" target="_blank">
             <div className="item">
               <img src="/images/masterbee.jpg" alt="A blue camera with a photo being printed at the bottom." width="150px" />
               <p>**masterbee Kid Camera Instant Print Photo**</p>
@@ -136,11 +162,12 @@ const Home = () => {
               <p>Sunny Health & Fitness Air Walk Cross Trainer Elliptical Machine Glider</p>
             </div>
           </a>
-        
+
+          
         </div>
-    </div>
+      </div>
     </>
   );
-} 
+};
 
 export default Home;
