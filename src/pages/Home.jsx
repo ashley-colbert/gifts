@@ -7,13 +7,13 @@ const Home = () => {
     <>
       
       <SuperSEO
-        title="Best Gift Ideas for 2024 - Deals Updated Daily"
-        description="Discover this year's best gift ideas for everyone. Our list is updated daily with the latest deals."
+        title="Gift Ideas Canada. Best Gift Ideas for 2024 - Deals Updated Daily"
+        description="Discover this year's best gift ideas for everyone. Our list is updated daily with the latest deals. Best canadian gift ideas. Gift ideas canada."
         lang="en"
         openGraph={{
           ogImage: {
             ogImage: "/public/logo512.png", 
-            ogImageAlt: "A collection of popular gift items for 2024",
+            ogImageAlt: "A collection of popular gift items for 2024 canada",
             ogImageWidth: 1200,
             ogImageHeight: 630,
             ogImageType: "image/jpeg",
@@ -24,7 +24,7 @@ const Home = () => {
         twitter={{
           twitterSummaryCard: {
             summaryCardImage: "/public/logo512.png", // Replace with actual image URL
-            summaryCardImageAlt: "A collection of popular gift items for 2024",
+            summaryCardImageAlt: "A collection of popular gift items for 2024 canada",
             summaryCardSiteUsername: "@yourTwitterHandle", // Replace with your Twitter handle
           },
         }}
