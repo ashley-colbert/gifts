@@ -13,6 +13,13 @@ const Custom = () => {
               <p>Brother Genuine TN2294PK Standard Yield Black, Cyan, Magenta and Yellow Toner Cartridges</p>
             </div>
           </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4fmJa8Y" target="blank">
+          <div className="item">
+          <img src="/images/binderdivider.jpg" alt="Avery brand binder dividers with colourful tabs." width="100px" />
+              <p>Avery Jan-Dec 12 Tab Dividers for 3 Ring Binders, Customizable Table of Contents, Multicolor Tabs, 3 Sets</p>
+            </div>
+          </a>
           
       </div>
     </>
