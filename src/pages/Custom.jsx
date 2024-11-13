@@ -20,6 +20,13 @@ const Custom = () => {
               <p>Avery Jan-Dec 12 Tab Dividers for 3 Ring Binders, Customizable Table of Contents, Multicolor Tabs, 3 Sets</p>
             </div>
           </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4hPv69w" target="blank">
+          <div className="item">
+          <img src="/images/rug.jpg" alt="A black rug in front of a white door." width="100px" />
+              <p>iCustomRug Heavy Duty Interior/Exterior Water Proof Utility Ribbed Vinyl Back Runner</p>
+            </div>
+          </a>
           
       </div>
     </>
