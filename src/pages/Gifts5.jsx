@@ -7,6 +7,8 @@ const Gifts5 = () => {
       <div className="gifts2">
         <h3>Awesome Vinyl Records</h3>
         <div>
+
+
       <a rel="noopener noreferrer" href="https://amzn.to/3AwFrXq" target="blank">
         <div className="item">
         <img src="/images/katebush.jpg" alt="An albun cover wtih a drawing of a woman and many animals." width="150px"/>
