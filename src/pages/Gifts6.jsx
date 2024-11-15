@@ -8,6 +8,13 @@ const Gifts6 = () => {
                 <h3>Gifts for Mom and Dad</h3>
                 <div>
 
+                <a rel="noopener noreferrer" href="https://amzn.to/4hNMATY" target="blank">
+                        <div className="item">
+                            <img src="/images/shovel.jpg" alt="An electric shovel with a batter charger and battery pack lying next to it." width="150px" />
+                            <p>Enhulk Eletric Snow Shovel, 20V | 12-Inch | 4-Ah Cordless Snow Blower</p>
+                        </div>
+                    </a>
+
                     <a rel="noopener noreferrer" href="https://amzn.to/48JfCQC" target="blank">
                         <div className="item">
                             <img src="/images/govee.jpg" alt="A box displaying a house with colourful lights in the eves." width="150px" />
