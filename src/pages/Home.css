@@ -30,3 +30,19 @@ a:hover {
 .item img {
   margin-right: 2.5%; 
 }
+
+form {
+  margin: 5%;
+}
+
+input {
+  margin: 2%;
+  padding: 2%;
+  border-radius: 5%;
+}
+
+button {
+  margin: 2%;
+  padding: 2%;
+  border-radius: 5%;
+} 
