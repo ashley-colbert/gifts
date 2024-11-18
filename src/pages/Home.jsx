@@ -1,18 +1,45 @@
-import React from "react";
+import React, { useState } from "react";
 import { SuperSEO } from "react-super-seo";
+import emailjs from 'emailjs-com';
 import "./Home.css";
 
 const Home = () => {
+  const [request, setRequest] = useState('');
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    const templateParams = {
+      request: request,
+      to_email: 'ashley.colbert23@gmail.com', // Recipient's email
+      subject: 'Requested Item',       // Email subject
+    };
+
+    emailjs.send(
+      'service_lf0u3tp', 
+      'template_7ow4rhv', 
+      templateParams,
+      'SGaTsFZ7gurFe1kIf' 
+    )
+    .then((response) => {
+      console.log('SUCCESS!', response.status, response.text);
+      alert('Request sent successfully!');
+    })
+    .catch((err) => {
+      console.error('FAILED...', err);
+      alert('Failed to send request.');
+    });
+  };
+
   return (
     <>
-      
       <SuperSEO
         title="Gift Ideas Canada. Best Gift Ideas for 2024 - Deals Updated Daily"
         description="Discover this year's best gift ideas for everyone. Our list is updated daily with the latest deals. Best canadian gift ideas. Gift ideas canada."
         lang="en"
         openGraph={{
           ogImage: {
-            ogImage: "/public/logo512.png", 
+            ogImage: "/public/logo512.png",
             ogImageAlt: "A collection of popular gift items for 2024 canada",
             ogImageWidth: 1200,
             ogImageHeight: 630,
@@ -165,9 +192,54 @@ const Home = () => {
 
           
         </div>
+
+<RequestForm />
+
       </div>
     </>
   );
 };
+
+function RequestForm() {
+  const [request, setRequest] = useState('');
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+    const templateParams = {
+      request: request,
+    };
+
+    emailjs.send(
+      'service_lf0u3tp', 
+      'template_7ow4rhv', 
+      templateParams,
+      'SGaTsFZ7gurFe1kIf'
+    )
+    .then((response) => {
+      console.log('SUCCESS!', response.status, response.text);
+      alert('Request sent successfully!');
+    })
+    .catch((err) => {
+      console.error('FAILED...', err);
+      alert('Failed to send request.');
+    });
+  };
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <label htmlFor="request">Can't find what you're looking for?</label><br></br>
+      <input 
+        type="text" 
+        placeholder="Enter a request" 
+        value={request} 
+        onChange={(e) => setRequest(e.target.value)} 
+        required 
+      /> 
+      <button type="submit">Send</button>
+      <p>Check back tomorrow under the "Custom Requests" link for a great deal on your requested item!</p>
+    </form>
+  );
+}
 
 export default Home;
