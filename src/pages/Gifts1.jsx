@@ -9,6 +9,22 @@ const Gifts1 = () => {
         <p>New deals updated daily</p>
         <div>
           <h3>Deals!</h3>
+
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4hV3YpL" target="blank">
+          <div className="item">
+          <img src="/images/fitbit.jpg" alt="A black Fitbit smart watch." width="150px" />
+              <p>Google Fitbit Inspire 3 Health and Fitness Tracker</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/40WJYx6" target="blank">
+            <div className="item">
+              <img src="/images/ninja.jpg" alt="A black double Ninja air fryer." width="150px" />
+              <p>Ninja DZ550 Foodi 10 Quart 6-in-1 DualZone Smart XL Air Fryer with 2 Independent Baskets</p>
+            </div>
+          </a>
+
           <a rel="noopener noreferrer" href="https://amzn.to/3Uoj5hy" target="blank">
             <div className="item">
               <img src="/images/karaoke.jpg" alt="Karaoke speaker with 2 microphones." width="150px" />
@@ -17,29 +33,29 @@ const Gifts1 = () => {
           </a>
 
           <a rel="noopener noreferrer" href="https://amzn.to/3A8YGGm" target="blank">
-          <div className="item">
-          <img src="/images/record.jpg" alt="Table top record player with plastic top and wood finish on bottom." width="150px" />
+            <div className="item">
+              <img src="/images/record.jpg" alt="Table top record player with plastic top and wood finish on bottom." width="150px" />
               <p>Amazon Basics Turntable Record Player with Built-in Speakers and Bluetooth</p>
             </div>
           </a>
 
           <a rel="noopener noreferrer" href="https://amzn.to/4e8V3Ot" target="blank">
-          <div className="item">
-          <img src="/images/hairdryer.jpg" alt="White hair dryer with accessories." width="150px" />
+            <div className="item">
+              <img src="/images/hairdryer.jpg" alt="White hair dryer with accessories." width="150px" />
               <p>Slopehill Professional Ionic Hair Dryer </p>
             </div>
           </a>
 
           <a rel="noopener noreferrer" href="https://amzn.to/3CcWL3U" target="blank">
-          <div className="item">
-          <img src="/images/birdfeeder.jpg" alt="a red bird sitting on a bird feeder with camera." width="150px" />
+            <div className="item">
+              <img src="/images/birdfeeder.jpg" alt="a red bird sitting on a bird feeder with camera." width="150px" />
               <p>Dzees Smart Bird Feeder with Camera, Bird Feeder Camera Wireless Outdoor</p>
             </div>
           </a>
 
           <a rel="noopener noreferrer" href="https://amzn.to/3UqJaMR" target="blank">
-          <div className="item">
-          <img src="/images/elliptical.jpg" alt="A woman using a silver elliptical." width="150px" />
+            <div className="item">
+              <img src="/images/elliptical.jpg" alt="A woman using a silver elliptical." width="150px" />
               <p>Sunny Health & Fitness Air Walk Cross Trainer Elliptical Machine Glider</p>
             </div>
           </a>
@@ -49,6 +65,34 @@ const Gifts1 = () => {
         <div>
           <h3>Best Deals on Toys</h3>
 
+          <a rel="noopener noreferrer" href="https://amzn.to/4hY4IKK" target="blank">
+          <div className="item">
+          <img src="/images/scrubbies.jpg" alt="A pale blue box with baby animal toys and colourful markers." width="150px" />
+              <p>Crayola Scribble Scrubbie Baby Pets Nursery Play Set</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3CAOBmh" target="blank">
+          <div className="item">
+          <img src="/images/broom.jpg" alt="A large yellow box of Legos with several colourful Lego figures." width="150px" />
+              <p>Melissa & Doug Let's Play House Dust! Sweep! Mop! 6 Piece Pretend Play Set</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3CNongh" target="blank">
+          <div className="item">
+          <img src="/images/legos.jpg" alt="A large yellow box of Legos with several colourful Lego figures." width="150px" />
+              <p>LEGO Classic Large Creative Brick Box </p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3ZgRul1" target="blank">
+          <div className="item">
+          <img src="/images/furby.jpg" alt="A colourful furry Furby toy with large ears." width="150px" />
+              <p>Furby Tie Dye, 15 Fashion Accessories</p>
+            </div>
+          </a>
+
           <a rel="noopener noreferrer" href="https://amzn.to/3YQ5oKN" target="blank">
             <div className="item">
               <img src="/images/masterbee.jpg" alt="A blue camera with a photo being printed at the bottom." width="150px" />
@@ -56,7 +100,7 @@ const Gifts1 = () => {
             </div>
           </a>
 
-          
+
           <a rel="noopener noreferrer" href="https://amzn.to/4fi3TLn" target="blank">
             <div className="item">
               <img src="/images/kenetic.jpg" alt="A box of kenetic sand in white, pink, and brown and accessories." width="150px" />
@@ -94,7 +138,7 @@ const Gifts1 = () => {
 
         </div>
 
-        
+
         {/* <div>
           <h3>Great Costumes for Teens or Adults</h3>
           <a rel="noopener noreferrer" href="https://amzn.to/47viUGual" target="blank">

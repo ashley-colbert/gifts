@@ -61,7 +61,35 @@ const Home = () => {
         <h3>This Year's Best Gift Ideas</h3>
         <p>Deals updated daily</p>
         <div>
-          {/* Your existing gift items */}
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3ZgRul1" target="blank">
+          <div className="item">
+          <img src="/images/furby.jpg" alt="A colourful furry Furby toy with large ears." width="150px" />
+              <p>Furby Tie Dye, 15 Fashion Accessories</p>
+            </div>
+          </a>
+          
+        <a rel="noopener noreferrer" href="https://amzn.to/4hY4IKK" target="blank">
+          <div className="item">
+          <img src="/images/scrubbies.jpg" alt="A pale blue box with baby animal toys and colourful markers." width="150px" />
+              <p>Crayola Scribble Scrubbie Baby Pets Nursery Play Set</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3CAOBmh" target="blank">
+          <div className="item">
+          <img src="/images/broom.jpg" alt="A large yellow box of Legos with several colourful Lego figures." width="150px" />
+              <p>Melissa & Doug Let's Play House Dust! Sweep! Mop! 6 Piece Pretend Play Set</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3CNongh" target="blank">
+          <div className="item">
+          <img src="/images/legos.jpg" alt="A large yellow box of Legos with several colourful Lego figures." width="150px" />
+              <p>LEGO Classic Large Creative Brick Box </p>
+            </div>
+          </a>
+
           <a rel="noopener noreferrer" href="https://amzn.to/3YQ5oKN" target="_blank">
             <div className="item">
               <img src="/images/masterbee.jpg" alt="A blue camera with a photo being printed at the bottom." width="150px" />

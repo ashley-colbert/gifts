@@ -8,7 +8,28 @@ const Gifts6 = () => {
                 <h3>Gifts for Mom and Dad</h3>
                 <div>
 
-                <a rel="noopener noreferrer" href="https://amzn.to/4hNMATY" target="blank">
+                    <a rel="noopener noreferrer" href="https://amzn.to/3V4kTfL" target="blank">
+                        <div className="item">
+                            <img src="/images/artKit2.jpg" alt="An art kit with a black case with colourful pencils and drawing accessories." width="150px" />
+                            <p>54 piece set of adult art supplies</p>
+                        </div>
+                    </a>
+
+                    <a rel="noopener noreferrer" href="https://amzn.to/4hV3YpL" target="blank">
+                        <div className="item">
+                            <img src="/images/fitbit.jpg" alt="A black Fitbit smart watch." width="150px" />
+                            <p>Google Fitbit Inspire 3 Health and Fitness Tracker</p>
+                        </div>
+                    </a>
+
+                    <a rel="noopener noreferrer" href="https://amzn.to/40WJYx6" target="blank">
+                        <div className="item">
+                            <img src="/images/ninja.jpg" alt="A black double Ninja air fryer." width="150px" />
+                            <p>Ninja DZ550 Foodi 10 Quart 6-in-1 DualZone Smart XL Air Fryer with 2 Independent Baskets</p>
+                        </div>
+                    </a>
+
+                    <a rel="noopener noreferrer" href="https://amzn.to/4hNMATY" target="blank">
                         <div className="item">
                             <img src="/images/shovel.jpg" alt="An electric shovel with a batter charger and battery pack lying next to it." width="150px" />
                             <p>Enhulk Eletric Snow Shovel, 20V | 12-Inch | 4-Ah Cordless Snow Blower</p>
