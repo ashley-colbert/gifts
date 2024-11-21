@@ -2,7 +2,7 @@
 
 body{
   background-image: url('/public/images/fall.jpg');
-  background-size: cover;
+  /* background-size: cover; */
   font-family: 'Baskervville SC', serif;
   align-items: center;
   justify-content: center;
