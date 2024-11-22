@@ -23,7 +23,7 @@ const Gifts5 = () => {
         </div>
         </a>
 
-        <a rel="noopener noreferrer" href="https://amzn.to/3ZjIlZs" target="blank">
+        <a rel="noopener noreferrer" href="https://amzn.to/3ZhtYoa" target="blank">
         <div className="item">
         <img src="/images/blue.jpg" alt="A blue album cover with the members of Weezer standing in a line." width="150px"/>
         <p>Weezer (Blue Album) (Vinyl) Weezer</p>
