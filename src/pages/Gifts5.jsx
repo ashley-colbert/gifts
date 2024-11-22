@@ -8,8 +8,21 @@ const Gifts5 = () => {
         <h3>Awesome Vinyl Records</h3>
         <div>
 
+        <a rel="noopener noreferrer" href="https://amzn.to/3ZjeShN" target="blank">
+        <div className="item">
+        <img src="/images/radiohead.jpg" alt="Radiohead's The Bends album cover." width="150px"/>
+        <p>The Bends (Vinyl) Radiohead</p>
+        </div>
+        </a>
 
-      <a rel="noopener noreferrer" href="https://amzn.to/3AwFrXq" target="blank">
+      <a rel="noopener noreferrer" href="https://amzn.to/4fCSwgV" target="blank">
+        <div className="item">
+        <img src="/images/pinkerton.jpg" alt="Weezer's Pinterton album cover." width="150px"/>
+        <p>Pinkerton (Vinyl) Weezer</p>
+        </div>
+        </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3AwFrXq" target="blank">
         <div className="item">
         <img src="/images/katebush.jpg" alt="An albun cover wtih a drawing of a woman and many animals." width="150px"/>
         <p>Never For Ever (2018 Remaster)(LP) Kate Bush</p>

@@ -8,6 +8,20 @@ const Gifts4 = () => {
         <h3>The best gifts for pets this season</h3>
         <div>
 
+        <a rel="noopener noreferrer" href="https://amzn.to/3Zhy67E" target="blank">
+        <div className="item">
+        <img src="/images/dogbedgrey.jpg" alt="A grey dog bed with a brown and white dog lying on it." width="150px"/>
+        <p>EHEYCIGA Memory Foam Orthopedic Large Dog Bed with Sides</p>
+        </div>
+        </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/4eIKZvX" target="blank">
+        <div className="item">
+        <img src="/images/furbo.jpg" alt="A white furbo with a phone displaying a dog." width="150px"/>
+        <p>Furbo 360° Dog Camera + Nanny Bundle</p>
+        </div>
+        </a>
+
         <a rel="noopener noreferrer" href="https://amzn.to/4hN0be9" target="blank">
         <div className="item">
         <img src="/images/greycattree.jpg" alt="A grey cat tree with 3 layers and a scratching post." width="150px"/>
