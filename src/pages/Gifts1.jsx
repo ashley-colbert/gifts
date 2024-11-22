@@ -7,63 +7,16 @@ const Gifts1 = () => {
       <div className="gifts1">
         <h3>Best Deals on Unique Gift Ideas</h3>
         <p>New deals updated daily</p>
-        <div>
-          <h3>Deals!</h3>
-
-
-          <a rel="noopener noreferrer" href="https://amzn.to/4hV3YpL" target="blank">
-          <div className="item">
-          <img src="/images/fitbit.jpg" alt="A black Fitbit smart watch." width="150px" />
-              <p>Google Fitbit Inspire 3 Health and Fitness Tracker</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/40WJYx6" target="blank">
-            <div className="item">
-              <img src="/images/ninja.jpg" alt="A black double Ninja air fryer." width="150px" />
-              <p>Ninja DZ550 Foodi 10 Quart 6-in-1 DualZone Smart XL Air Fryer with 2 Independent Baskets</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/3Uoj5hy" target="blank">
-            <div className="item">
-              <img src="/images/karaoke.jpg" alt="Karaoke speaker with 2 microphones." width="150px" />
-              <p>Masingo Karaoke Machine with 2 Bluetooth Microphones.</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/3A8YGGm" target="blank">
-            <div className="item">
-              <img src="/images/record.jpg" alt="Table top record player with plastic top and wood finish on bottom." width="150px" />
-              <p>Amazon Basics Turntable Record Player with Built-in Speakers and Bluetooth</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/4e8V3Ot" target="blank">
-            <div className="item">
-              <img src="/images/hairdryer.jpg" alt="White hair dryer with accessories." width="150px" />
-              <p>Slopehill Professional Ionic Hair Dryer </p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/3CcWL3U" target="blank">
-            <div className="item">
-              <img src="/images/birdfeeder.jpg" alt="a red bird sitting on a bird feeder with camera." width="150px" />
-              <p>Dzees Smart Bird Feeder with Camera, Bird Feeder Camera Wireless Outdoor</p>
-            </div>
-          </a>
-
-          <a rel="noopener noreferrer" href="https://amzn.to/3UqJaMR" target="blank">
-            <div className="item">
-              <img src="/images/elliptical.jpg" alt="A woman using a silver elliptical." width="150px" />
-              <p>Sunny Health & Fitness Air Walk Cross Trainer Elliptical Machine Glider</p>
-            </div>
-          </a>
-
-        </div>
 
         <div>
           <h3>Best Deals on Toys</h3>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4fUChvm" target="blank">
+          <div className="item">
+          <img src="/images/kidizoom.jpg" alt="A purple Vtech kids smart watch." width="150px" />
+              <p>VTech KidiZoom Smartwatch DX3 with Dual Cameras</p>
+            </div>
+          </a>
 
           <a rel="noopener noreferrer" href="https://amzn.to/4hY4IKK" target="blank">
           <div className="item">
@@ -137,6 +90,63 @@ const Gifts1 = () => {
           </a>
 
         </div>
+
+        <div>
+          <h3>Deals!</h3>
+
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4hV3YpL" target="blank">
+          <div className="item">
+          <img src="/images/fitbit.jpg" alt="A black Fitbit smart watch." width="150px" />
+              <p>Google Fitbit Inspire 3 Health and Fitness Tracker</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/40WJYx6" target="blank">
+            <div className="item">
+              <img src="/images/ninja.jpg" alt="A black double Ninja air fryer." width="150px" />
+              <p>Ninja DZ550 Foodi 10 Quart 6-in-1 DualZone Smart XL Air Fryer with 2 Independent Baskets</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3Uoj5hy" target="blank">
+            <div className="item">
+              <img src="/images/karaoke.jpg" alt="Karaoke speaker with 2 microphones." width="150px" />
+              <p>Masingo Karaoke Machine with 2 Bluetooth Microphones.</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3A8YGGm" target="blank">
+            <div className="item">
+              <img src="/images/record.jpg" alt="Table top record player with plastic top and wood finish on bottom." width="150px" />
+              <p>Amazon Basics Turntable Record Player with Built-in Speakers and Bluetooth</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/4e8V3Ot" target="blank">
+            <div className="item">
+              <img src="/images/hairdryer.jpg" alt="White hair dryer with accessories." width="150px" />
+              <p>Slopehill Professional Ionic Hair Dryer </p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3CcWL3U" target="blank">
+            <div className="item">
+              <img src="/images/birdfeeder.jpg" alt="a red bird sitting on a bird feeder with camera." width="150px" />
+              <p>Dzees Smart Bird Feeder with Camera, Bird Feeder Camera Wireless Outdoor</p>
+            </div>
+          </a>
+
+          <a rel="noopener noreferrer" href="https://amzn.to/3UqJaMR" target="blank">
+            <div className="item">
+              <img src="/images/elliptical.jpg" alt="A woman using a silver elliptical." width="150px" />
+              <p>Sunny Health & Fitness Air Walk Cross Trainer Elliptical Machine Glider</p>
+            </div>
+          </a>
+
+        </div>
+
+
 
 
         {/* <div>

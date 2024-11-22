@@ -8,6 +8,13 @@ const Gifts2 = () => {
         <h3>Popular Kid's Gift Ideas</h3>
         <div>
 
+        <a rel="noopener noreferrer" href="https://amzn.to/4fUChvm" target="blank">
+          <div className="item">
+          <img src="/images/kidizoom.jpg" alt="A purple Vtech kids smart watch." width="150px" />
+              <p>VTech KidiZoom Smartwatch DX3 with Dual Cameras</p>
+            </div>
+          </a>
+
         <a rel="noopener noreferrer" href="https://amzn.to/4hY4IKK" target="blank">
           <div className="item">
           <img src="/images/scrubbies.jpg" alt="A pale blue box with baby animal toys and colourful markers." width="150px" />

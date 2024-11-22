@@ -6,12 +6,12 @@ const Layout = () => {
     <header>
       <nav>
         <Link to ="/" className="nav-link">Home </Link> || 
-        <Link to ="/gifts1" className="nav-link"> Best Deals </Link> || 
-        <Link to ="/gifts2" className="nav-link"> Kid's Gift</Link> || 
-        <Link to ="/gifts3" className="nav-link"> Teen's Gift</Link> || 
-        <Link to ="/gifts4" className="nav-link"> Pet's Gift</Link> ||
-        <Link to ="/gifts5" className="nav-link"> Vinyl Records</Link> ||
-        <Link to ="/gifts6" className="nav-link"> Mom and Dad</Link> ||
+        <Link to ="/deals" className="nav-link"> Best Deals </Link> || 
+        <Link to ="/kids" className="nav-link"> Kid's Gift</Link> || 
+        <Link to ="/teens" className="nav-link"> Teen's Gift</Link> || 
+        <Link to ="/pets" className="nav-link"> Pet's Gift</Link> ||
+        <Link to ="/vinyl" className="nav-link"> Vinyl Records</Link> ||
+        <Link to ="/parents" className="nav-link"> Mom and Dad</Link> ||
         <Link to ="/custom" className="nav-link"> Custom Requests</Link>
 
       </nav>
