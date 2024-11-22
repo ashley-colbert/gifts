@@ -8,6 +8,27 @@ const Gifts3 = () => {
         <h3>Popular Teen Gift Ideas</h3>
         <div>
 
+        <a rel="noopener noreferrer" href="https://amzn.to/3APF1vn" target="blank">
+            <div className="item">
+              <img src="/images/snackles.jpg" alt="An orange dragon plushie holding Reeses Peanut Butter Cups." width="150px" />
+              <p>SNACKLES-SNACKLES-Series 1 Wave 2 Plush Medium(Dragon Holding Reese's)</p>
+            </div>
+          </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/3CPtUmA" target="blank">
+            <div className="item">
+              <img src="/images/lipgloss.jpg" alt="A colourful box with a tube jar of lip balm." width="150px" />
+              <p>LANEIGE Lip Glowy Balm</p>
+            </div>
+          </a>
+
+        <a rel="noopener noreferrer" href="https://amzn.to/40V6BSz" target="blank">
+            <div className="item">
+              <img src="/images/pendant.jpg" alt="A gold chain with a heart and initial pendant." width="150px" />
+              <p>JECOMY Dainty Initial Necklaces</p>
+            </div>
+          </a>
+
           <a rel="noopener noreferrer" href="https://amzn.to/3V4kTfL" target="blank">
             <div className="item">
               <img src="/images/artKit2.jpg" alt="An art kit with a black case with colourful pencils and drawing accessories." width="150px" />

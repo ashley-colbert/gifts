@@ -8,6 +8,13 @@ const Gifts6 = () => {
                 <h3>Gifts for Mom and Dad</h3>
                 <div>
 
+                    <a rel="noopener noreferrer" href="https://amzn.to/40V6BSz" target="blank">
+                        <div className="item">
+                            <img src="/images/pendant.jpg" alt="A gold chain with a heart and initial pendant." width="150px" />
+                            <p>JECOMY Dainty Initial Necklaces</p>
+                        </div>
+                    </a>
+
                     <a rel="noopener noreferrer" href="https://amzn.to/3V4kTfL" target="blank">
                         <div className="item">
                             <img src="/images/artKit2.jpg" alt="An art kit with a black case with colourful pencils and drawing accessories." width="150px" />

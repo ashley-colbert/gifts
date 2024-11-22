@@ -11,6 +11,13 @@ const Gifts1 = () => {
         <div>
           <h3>Best Deals on Toys</h3>
 
+          <a rel="noopener noreferrer" href="https://amzn.to/3APF1vn" target="blank">
+            <div className="item">
+              <img src="/images/snackles.jpg" alt="An orange dragon plushie holding Reeses Peanut Butter Cups." width="150px" />
+              <p>SNACKLES-SNACKLES-Series 1 Wave 2 Plush Medium(Dragon Holding Reese's)</p>
+            </div>
+          </a>
+
           <a rel="noopener noreferrer" href="https://amzn.to/4fUChvm" target="blank">
           <div className="item">
           <img src="/images/kidizoom.jpg" alt="A purple Vtech kids smart watch." width="150px" />
