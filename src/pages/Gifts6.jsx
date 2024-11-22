@@ -15,6 +15,13 @@ const Gifts6 = () => {
                         </div>
                     </a>
 
+                    <a rel="noopener noreferrer" href="https://amzn.to/3CHngPt" target="blank">
+                        <div className="item">
+                            <img src="/images/chair.jpg" alt="A black office chair on wheels." width="100px" />
+                            <p>Executive Computer Desk Chair - Coupon available!</p>
+                        </div>
+                    </a>
+
                     <a rel="noopener noreferrer" href="https://amzn.to/4hV3YpL" target="blank">
                         <div className="item">
                             <img src="/images/fitbit.jpg" alt="A black Fitbit smart watch." width="150px" />
